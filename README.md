@@ -1,6 +1,7 @@
 # Projeto Clone da Página inicial da Netflix
 
-## Tecnologias utilizadas:
+## Tecnologias utilizadas no projeto:
+
 
 - HTML5
 - CSS3
@@ -8,7 +9,8 @@
 
 
 
-Bootcamp HTML Web Developer - Digital Innovation One
+Bootcamp HTML Web Developer 
+Digital Innovation One
 
 
 
